@@ -5,8 +5,8 @@
 <!-- Oii sou o Mr alejandro-->
 
 <div>
-<a href="htpps://beacons.al/mrAlejandro0">
-<img  height="180cm" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=black"/>
+ <a href="https://www.instagram.com/ale.br_/">my instagram💻</a>
+<img widht="180cm" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
 </div>
   
   <div>
